@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Vikyy98
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Vikyy98/Vikyy98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
