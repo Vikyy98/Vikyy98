@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vikyy98
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning ReactJs
+- 👀 Working as Product Engineer Trainee 
+- 🌱 Full Stack Developer 
 
 
 <!---
