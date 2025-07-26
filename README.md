@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vigneshwaran K</h1>
-<h3 align="center">💻 Senior .NET Core Developer | 🔧 Backend Specialist | 🚀 Angular Learner</h3>
+<h3 align="center">💻 Senior Software Engineer | 🔧 Backend Specialist | 🚀 Angular Learner</h3>
 
 ---
 
