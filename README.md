@@ -46,9 +46,6 @@
 
 ### 📌 Pinned Projects
 - [Task Management Angular App](https://github.com/Vikyy98/task-management-angular-app) – Angular 17 + Signals learning project
-- [.NET Core PIM APIs](#) – Scalable Product Information Management backend
-- [CTT – Central Translation Tool](#) – Multilingual content automation with Razor, REST APIs
-
 ---
 
 > ✨ *“Keep building. Keep learning. Keep contributing.”*
