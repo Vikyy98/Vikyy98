@@ -42,11 +42,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikyy98&layout=compact&theme=radical&hide=Shell" />
 </p>
 
----
-
-### 📌 Pinned Projects
-- [Task Management Angular App](https://github.com/Vikyy98/task-management-angular-app) – Angular 17 + Signals learning project
----
-
 > ✨ *“Keep building. Keep learning. Keep contributing.”*
 
